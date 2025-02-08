@@ -1,4 +1,4 @@
-# Multi-LLM Backend
+# OctoThink Backend
 Structured multi-LLM backend for handling multiple LLMs simultaneously.
 
 ## Stacks
